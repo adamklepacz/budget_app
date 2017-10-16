@@ -1,0 +1,25 @@
+.navbar-light {
+  border-bottom: 1px solid #C4CBB7;
+}
+
+.list-group-special {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.app-main, .app-row {
+  height: 100vh;
+}
+
+.card-special {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.card {
+  border-radius: 0 !important;
+}
+
+.card-body {
+  padding: 0 !important;
+}
